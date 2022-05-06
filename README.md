@@ -2,7 +2,7 @@
 
 A Python program that generates Visual Studio 2022 Unity C# item template.
 
-**Warning! This program is very unstable, which is very likely to lead into some errors, please use with caution!**
+**Warning! This program is very unstable, which is very likely to cause some errors, please use with caution!**
 
 ## How to use:
 1. Place the **"gen.py"**, **"icon.ico"**, and **"SyntaxTree.VisualStudio.Unity.Vsix.Item..vstman"** into **"...\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\ItemTemplates"** folder

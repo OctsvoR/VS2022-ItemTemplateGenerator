@@ -1,6 +1,6 @@
 # VS2022-UnityItemTemplateGenerator
 
-A Python program that generates Visual Studio 2022 Unity C# item template.
+### A Python program that generates Visual Studio 2022 Unity C# item template.
 
 **Warning! This program is very unstable, which is very likely to cause some errors. Please use with caution!**
 

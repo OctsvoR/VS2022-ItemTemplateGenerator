@@ -1,0 +1,41 @@
+<ns0:VSTemplateManifest xmlns:ns0="http://schemas.microsoft.com/developer/vstemplatemanifest/2015" xmlns:ns1="http://schemas.microsoft.com/developer/vstemplate/2005" Version="1.0">
+  <ns0:VSTemplateContainer TemplateType="Item" Locale="1033">
+    <ns0:RelativePathOnDisk>CSharp\1033\CSharp MonoBehaviour</ns0:RelativePathOnDisk>
+    <ns0:TemplateFileName>CSharp MonoBehaviour.vstemplate</ns0:TemplateFileName>
+    <ns0:VSTemplateHeader>
+      <ns1:TemplateData>
+        <ns1:Name>CSharp MonoBehaviour</ns1:Name>
+        <ns1:Description>Unity MonoBehaviour in CSharp language</ns1:Description>
+        <ns1:Icon>CSharp MonoBehaviour.ico</ns1:Icon>
+        <ns1:ProjectType>CSharp</ns1:ProjectType>
+        <ns1:DefaultName>NewBehaviourScript</ns1:DefaultName>
+      </ns1:TemplateData>
+    </ns0:VSTemplateHeader>
+  </ns0:VSTemplateContainer>
+  <ns0:VSTemplateContainer TemplateType="Item" Locale="1033">
+    <ns0:RelativePathOnDisk>CSharp\1033\CSharp Interface</ns0:RelativePathOnDisk>
+    <ns0:TemplateFileName>CSharp Interface.vstemplate</ns0:TemplateFileName>
+    <ns0:VSTemplateHeader>
+      <ns1:TemplateData>
+        <ns1:Name>CSharp Interface</ns1:Name>
+        <ns1:Description>Unity Interface in CSharp language</ns1:Description>
+        <ns1:Icon>icon.ico</ns1:Icon>
+        <ns1:ProjectType>CSharp</ns1:ProjectType>
+        <ns1:DefaultName>NewInterface</ns1:DefaultName>
+      </ns1:TemplateData>
+    </ns0:VSTemplateHeader>
+  </ns0:VSTemplateContainer>
+  <ns0:VSTemplateContainer TemplateType="Item" Locale="1033">
+    <ns0:RelativePathOnDisk>CSharp\1033\CSharp class</ns0:RelativePathOnDisk>
+    <ns0:TemplateFileName>CSharp class.vstemplate</ns0:TemplateFileName>
+    <ns0:VSTemplateHeader>
+      <ns1:TemplateData>
+        <ns1:Name>CSharp class</ns1:Name>
+        <ns1:Description>Unity class in CSharp language</ns1:Description>
+        <ns1:Icon>icon.ico</ns1:Icon>
+        <ns1:ProjectType>CSharp</ns1:ProjectType>
+        <ns1:DefaultName>Newclass</ns1:DefaultName>
+      </ns1:TemplateData>
+    </ns0:VSTemplateHeader>
+  </ns0:VSTemplateContainer>
+</ns0:VSTemplateManifest>
